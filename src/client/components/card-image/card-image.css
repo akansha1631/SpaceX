@@ -1,0 +1,14 @@
+.imageContainer {
+    border: 5px solid #e0e0e0;
+    background-color: #e0e0e0;
+}
+
+.cardImage {
+    width: 200;
+    height: 200;
+}
+
+.imageTitle {
+    color: #483D8b;
+}
+
